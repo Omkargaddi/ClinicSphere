@@ -14,6 +14,14 @@
 ## Description
 **ClinicSphere** is a MERN-based Hospital Management System designed to streamline hospital operations. It offers secure authentication, appointment scheduling, patient record management, and real-time doctor–patient communication, providing a scalable and user-friendly healthcare solution.
 
+## Live Demo
+
+🔹 **User Panel:**  
+https://clinicsphere.netlify.app/
+
+🔹 **Admin Panel:**  
+https://clinicsphereadmin.netlify.app/
+
 ## Features
 - **User Authentication**: Secure login for patients, doctors, and administrators.
 - **Appointment Scheduling**: Easy booking, rescheduling, and cancellation of appointments.
